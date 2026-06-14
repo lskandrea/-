@@ -8,10 +8,9 @@ window.MJSC_CONFIG = {
 
   googleCalendarEmbedUrl: "https://calendar.google.com/calendar/embed?src=fr.french%23holiday%40group.v.calendar.google.com&ctz=Europe%2FParis",
 
-  googleFormEmbedUrl: "https://docs.google.com/forms/d/e/1FAIpQLScWsSrNFTJjsfwFfQDwocRDX1ryQ00JIu_pEe0zPilvZBVaEA/viewform?embedded=true",
+ googleFormEmbedUrl: "https://docs.google.com/forms/d/e/1FAIpQLScWsSrNFTJjSfwFfQDwoCRDX1ryQ0OJIu_pEe0zPilvZBVaEA/viewform?embedded=true",
 
-  googleDriveFolderUrl: "https://drive.google.com/drive/folders/1xPzKkZ_tdigLaPH5XZI_ixVt4WO3Wf5f?usp=sharing",
-
+googleDriveFolderUrl: "https://drive.google.com/drive/folders/1xPzKkZ_tdigLaPH5XZI_ixVt4WO3Wf5f?usp=sharing",
   facebookUrl: "https://www.facebook.com/",
   instagramUrl: "https://www.instagram.com/",
 

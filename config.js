@@ -10,8 +10,7 @@ window.MJSC_CONFIG = {
   googleCalendarEmbedUrl: "https://calendar.google.com/calendar/embed?src=fr.french%23holiday%40group.v.calendar.google.com&ctz=Europe%2FParis",
 
   // Google Forms : crée un formulaire puis colle ici l'URL /viewform?embedded=true
-  googleFormEmbedUrl: "<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScWsSrNFTJjSfwFfQDwoCRDX1ryQ0OJIu_pEe0zPilvZBVaEA/viewform?embedded=true" width="640" height="2053" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>",
-
+ googleFormEmbedUrl: "https://docs.google.com/forms/d/e/1FAIpQLScWsSrNFTJjsfwFfQDwocRDX1ryQ00JIu_pEe0zPilvZBVaEA/viewform?embedded=true",
   // Google Drive : dossier partagé pour documents d'inscription.
   googleDriveFolderUrl: "https://drive.google.com/drive/folders/1xPzKkZ_tdigLaPH5XZI_ixVt4WO3Wf5f?usp=sharing",
 
